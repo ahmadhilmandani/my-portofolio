@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ahmadhilmandani.github.io/my-portofolio",
+  "homepage": "https://ahmadhilmandani.github.io/my-portofolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
